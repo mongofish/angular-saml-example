@@ -1,0 +1,29 @@
+{
+  "name": "angular-ondeck-common",
+  "authors": [
+    "Ryan Liu <rliu@ondeck.com>"
+  ],
+  "description": "Common module for ondeck",
+  "main": "ondeck-common.js",
+  "keywords": [
+    "common"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "08027ad7de",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "08027ad7de0633239c3e34fe979b8721b2d4daa5"
+  },
+  "_source": "ssh://git@dev.ondeck.local:7999/rd/angular-ondeck-common.git",
+  "_target": "*",
+  "_originalSource": "angular-ondeck-common",
+  "_direct": true
+}

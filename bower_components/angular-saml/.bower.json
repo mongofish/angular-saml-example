@@ -1,0 +1,36 @@
+{
+  "name": "angular-saml",
+  "authors": [
+    "Ryan Liu <rliu@ondeck.com>",
+    "Ronny Gonzalez <rgonzalez@ondeck.com>"
+  ],
+  "description": "A angular module for SAML support",
+  "main": "angular-saml.js",
+  "keywords": [
+    "SAML",
+    "authentication"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-xml": "~1.0.2",
+    "angular": "~1.2.16",
+    "angular-base64": "~2.0.2",
+    "angular-resource": "~1.2.16"
+  },
+  "_release": "394ac058fd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "394ac058fd5bde6c7a96dd6f408466f700b6cd4b"
+  },
+  "_source": "ssh://git@dev.ondeck.local:7999/rd/angular-saml.git",
+  "_target": "*",
+  "_originalSource": "angular-saml"
+}

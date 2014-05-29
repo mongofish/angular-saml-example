@@ -1,0 +1,20 @@
+{
+  "name": "angular-ondeck-common",
+  "version": "0.1.0",
+  "authors": [
+    "Ryan Liu <rliu@ondeck.com>"
+  ],
+  "description": "Common module for ondeck",
+  "main": "ondeck-common.js",
+  "keywords": [
+    "common"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
