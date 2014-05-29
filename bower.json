@@ -1,0 +1,25 @@
+{
+  "name": "angular-saml-example",
+  "version": "1.0.0",
+  "authors": [
+    "Ryan Liu <rliu@ondeck.com>"
+  ],
+  "description": "Test application for internal bower repo",
+  "main": "app.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-saml": "*",
+    "angular-ondeck-common": "*",
+    "bootstrap": "~3.1.1"
+  }
+}

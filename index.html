@@ -1,0 +1,25 @@
+
+<html ng-app="app">
+	<head>
+		<meta charset="utf-8">
+		<script src="bower_components/angular/angular.js"></script>
+		<script src="bower_components/angular-base64/angular-base64.js"></script>
+		<script src="bower_components/angular-xml/angular-xml.js"></script>
+		<script src="bower_components/angular-saml/angular-saml.js"></script>
+		<script src="bower_components/angular-ondeck-common/ondeck-common.js"></script>
+		<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" type="text/css" />
+		<script src="app.js"></script>
+	</head>
+	<body ng-controller="init">
+		<div class="container">
+			<ondeck-header></ondeck-header>
+			<div style="text-align:center;min-height:80%">
+				<h2>Angular-SAML example</h2>
+				<div class="jumbotron">
+					<button class="btn btn-primary" ng-click="login()">Login</button>
+				</div>
+			</div>
+			<ondeck-footer></ondeck-footer>
+		</div>
+	</body>
+</html>
